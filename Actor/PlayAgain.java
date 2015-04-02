@@ -6,7 +6,7 @@ import greenfoot.*;
  * 
  * @author (Summon Agus - Agus Makmun - L200130113) 
  * @blog (bloggersmart.net)
- * @version (Update: v.2.0)
+ * @version (Update: v.3.0)
  */
 public class PlayAgain extends Actor
 {
