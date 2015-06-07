@@ -1,4 +1,6 @@
 # Greenfoot-Game-Shot-Meteor-v.3.0
+
+[![Join the chat at https://gitter.im/agusmakmun/Greenfoot-Game-Shot-Meteor-v.3.0](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/agusmakmun/Greenfoot-Game-Shot-Meteor-v.3.0?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Greenfoot Game Shot Meteor v.3.0 by Summon Agus
 
 <pre>
